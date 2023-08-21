@@ -1,0 +1,11 @@
+
+}
+java:S1450"[Remove the "shippingInfo" field and declare it as a local variable in the relevant methods.(‘òôáûÿÿÿÿ8ÀÑ™Œ¡1
+x
+java:S1450"[Remove the "totalAmounts" field and declare it as a local variable in the relevant methods.(ÞÈ‰˜8ÓÒ›Œ¡1
+R
+java:S1068"0Remove this unused "shippingInfo" private field.(‘òôáûÿÿÿÿ8ÇÑ™Œ¡1
+M
+java:S1068"0Remove this unused "totalAmounts" private field.(ÞÈ‰˜8ÈÑ™Œ¡1
+W
+java:S1144":Remove this unused private "calculateTotalAmounts" method.(°•¹ß8ÈÑ™Œ¡1
